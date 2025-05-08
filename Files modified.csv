@@ -1,0 +1,6 @@
+﻿"syscheck.path: Descending",Count
+"HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\W32Time\SecureTimeLimits",8
+"HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\W32Time\SecureTimeLimits\RunTime",5
+"HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\SharedAccess\Epoch",4
+"HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\W32Time\Config",4
+"HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\DsmSvc\State",3

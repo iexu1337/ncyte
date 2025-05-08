@@ -1,0 +1,4 @@
+﻿"syscheck.path: Descending",Count
+"HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\BFE\Parameters\Policy\Persistent\Filter",44
+"HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\BFE\Parameters\Policy\BootTime\Filter",14
+"HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2339272666-3457689461-1411455609-1104",1
